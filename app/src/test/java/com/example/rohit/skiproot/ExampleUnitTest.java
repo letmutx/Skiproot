@@ -1,4 +1,4 @@
-package com.example.rohit.hdfcskiproot;
+package com.example.rohit.skiproot;
 
 import org.junit.Test;
 

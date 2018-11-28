@@ -1,4 +1,4 @@
-package com.example.rohit.hdfcskiproot;
+package com.example.rohit.skiproot;
 
 import android.content.Context;
 
@@ -12,6 +12,7 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 
+@SuppressWarnings("unused")
 public class SkipCheck implements IXposedHookLoadPackage {
 
     @Override

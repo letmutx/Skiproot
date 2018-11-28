@@ -1,4 +1,4 @@
-package com.example.rohit.hdfcskiproot;
+package com.example.rohit.skiproot;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
